@@ -6,4 +6,4 @@ This project represents about an hour of coding, and an hour of debugging mostly
 
 But people asked for the source, so here it is.
 
-![screenshot](raw/master/screenshot.png)
+![screenshot](screenshot.png)
